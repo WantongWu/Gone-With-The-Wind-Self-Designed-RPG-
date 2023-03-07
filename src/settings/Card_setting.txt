@@ -1,0 +1,32 @@
+1:Spikes:It hurts.:5:0:-5
+2:Blue Potion:A mystery magic potion, @smells like rain.:0:1:0
+3:Jellyfish:A transparent, beautiful @marine animal. Can be @really dangerous.:0:2:-1
+4:Bones:Clean bones. Glow in the @dark.:4:0:-1
+5:Cat:A mammal that does nothing @but mess up your house.:3:0:0
+6:Dog:Human's loyal friend.:3:0:0
+7:Purple Potion:A mystery magic potion, @smells like grape juice.:0:0:3
+8:Green Potion:A mystery magic potion, @smells like ammonia.:0:3:-1
+9:Broken sword:Try not to use it to open @cans next time.:5:0:0
+10:Gold ring:100% Au, everyone's choice.:0:3:0
+11:Rolling Stone:Rock n roll. And gathers @no moss.:6:0:0
+12:Water Wand:A normal magic wand that @summons water. Or a @portable water fountain.:7:0:0
+13:Orange Potion:A mystery magic potion, @smells like orange juice.:0:0:5
+14:Apple:A popular fruit in the New @England area. 16.1.2 version, @no bugs discovered yet.:0:0:5
+15:Frog:A cute little creature with @big eyes, a big mouth and a @big heart.:4:2:2
+16:Bomb:BOOM!:8:0:0
+17:Fire Wand:Summons fire on the top @end of it. Does that @make it a torch?:8:0:0
+18:Magic Book:Brown cover, seems like it @hasn't been touched for @100000 years.:0:5:0
+19:Wind Wand:A humble magic wand that @blows.:9:0:0
+20:Ice Wand:Let it go.:9:0:0
+21:Dragon:With a bad mood. @Can't believe it once @fitted in your pocket.:20:0:-10
+22:Red Potion:With red blood cells, @white blood cells, and @platelets.:0:0:8
+23:Gold Ore:Why is everyone crazy about @gold? Anyways, I don't care. @*throw:10:0:0
+24:Seeds:A seed refuses to die when @you bury it, that is why it @becomes a tree.:0:6:0
+25:Mushroom:Is this the real life? @Is this just fantasy?:0:7:-1
+26:Crystal Skull:Owned by the largest Python @in the forest. @Multi-paradigm, interpreted, @with dynamic typing and @automatic memory @management.:0:7:0
+27:Wizard's hat:Waterproof.:0:6:3
+28:Black Magic Book:A black-cover book, with @some red spots on the @cover. Is that blood?:0:10:-4
+29:Leftover Gummy Bear:Take it with insulin.:0:0:15
+30:rorriM:Mirror Mirror on the wall.:0:15:0
+31:Avocado:Fre Sha Voca Do.:0:0:20
+32:Bird in the cage:Liberty or death.:64:0:-64
