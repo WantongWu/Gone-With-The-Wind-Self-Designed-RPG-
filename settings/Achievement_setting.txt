@@ -1,0 +1,21 @@
+1:COLLECTOR:Have 10 cards at @a time.
+2:DICTATOR:Defeated by Fog @5 times.:You have been defeated by the Fog and @exiled from the forest. You failed your @responsibility as the protector of the @forest and left the Fog to dictate @the forest.
+3:DRAGON:Use 10 cards.
+4:DROWN:Fall into the @river once.:As a fire dragon, you are not able @to touch water.
+5:GAMEOVER:Wasted.:You died with the assistance of the @Sister and the powerful red potion. @What a shame.
+6:HOME:Use the portal @once.
+7:IMMORTAL:Use ten red @potions.
+8:I HOPE YOU @DO:Use ten blue @potions.
+9:LEGACY:Have 20 cards @at a time.
+10:MARTYR:Kill Fog.:Without fog you are now in a disadvantageous @position in the negotiation with human @beings. Human beings are allowed to cut trees @on a regular basis and live in the forest. @You have to meet with General once a year @to make sure everything is working. @Or you hope so.
+11:NOT A @THEFT:Use five keys.
+12:PORTAL:Use ten keys.
+13:PROTECTOR:Coexist with Fog @and Human beings.:Human's existence is formally admitted in the @forest. Inside human society a formal @regulation is enforced to help manage @cooperation with the creatures in the forest. @Evil still lies behind the scene, but you @manage to face it together with others.
+14:SHAME:Defeated by @General 3 times.:You are the shame of your race. How is a @dragon not able to defeat a human being? "Go back @to where you came from" has become the @slogan of the conqueror.
+15:STILL LIKE @CAT?:Use five blue @potions.
+16:SURVIVOR:Use five red @potions.
+17:SWEET HOME:Use the portal @three times.
+18:UNDER-@CURRENT:Refuse to talk @to Fog.:Humans have left the forest, but not all of @them. You cannot stop the tide from the @ocean. Some sneak into the forest and cut the @trees, and they never come back to their @family. Hatred between races is swelling, @and it will explode, one day.
+19:VALIANT:Fall into the @river fifteen @times.
+20:WARRIOR:Fall into the @river five times.
+21:YOURSELF:Use 20 cards.

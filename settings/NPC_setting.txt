@@ -1,0 +1,33 @@
+Fog 103 101
+Nun 32 26
+Soldier 73 70 1
+Soldier 48 75 2
+Soldier 29 66 3
+Bear 45 27
+Fairy 96 70
+Lumberman 54 33 1
+Lumberman 86 56 2
+Goblin 95 63 1
+Goblin 79 62 2
+Goblin 38 68 1
+Goblin 31 71 2
+Pablo 43 20
+Cat 43 20
+General 25 58
+Charmander 79 20
+Dog 74 32
+Fox 87 29
+Fox 93 94
+Not_Your_Cat 68 106
+Pig 101 39
+Pigeon 31 63
+Pigeon 12 94
+Pigeon 92 40
+Rat 55 86
+Rat 43 79
+Rat 34 86
+Snake 93 54
+Snake 8 107
+Squirrel 28 102
+Squirrel 43 94
+Squirrel 12 41
